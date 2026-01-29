@@ -1,0 +1,47 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 20px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">1. How much does a dumpster rental cost in #State?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Dumpster rental prices near me in #State depend on container size, debris type, and rental duration. We offer flat-rate pricing to ensure you find an affordable dumpster rental. Contact us for a quote.</p>
+                <h4 class="template4 palooma" style="font-size:large;">2. Can I mix shingles and trash in a roofing dumpster rental in #State?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">It is best to keep shingles separate to avoid weight issues and facilitate recycling. We can provide a specific roll off dumpster rental for mixed debris if needed.</p>
+                <h4 class="template4 palooma" style="font-size:large;">3. Do you offer same day dumpster rental in #State?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We strive to fulfill order dumpster near me requests on the same day when inventory allows. Calling early ensures better availability for your waste container rental.</p>
+                <h4 class="template4 palooma" style="font-size:large;">4. What items are prohibited in roll off dumpsters near me in #State?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Hazardous waste, tires, batteries, and wet paint are prohibited. We provide a full list of prohibited items for your rubbish container rental in #State upon booking.</p>
+                <h4 class="template4 palooma" style="font-size:large;">5. Can I use a big dumpster rental in #State for roofing shingles?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We recommend smaller bins for shingles due to weight. A 20 yard dumpster is usually the max for roofing. We can help you estimate the right roll off rental near me in #State.</p>
+                <div class="callalooma mx-auto"><a href="tel:203-547-7583">Click Here To Call Us (203) 547-7583</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+    
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
